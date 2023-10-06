@@ -5,12 +5,12 @@
 
 <div align="center">
   <img src= "images/скрин3.jpg"
-      width="750" 
-      height="750">
+      alt = "drawing"
+    width = "75%">
   
 </div>
 
-одежда
+
 
 
 ## About project

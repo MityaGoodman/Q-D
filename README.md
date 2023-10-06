@@ -3,9 +3,7 @@
   <h2 align="center">Freelance Telegram bot from team Q&D</h2>
 </div>
 
-![screen1](images/скрин1.jpg)
-
-![screen2](images/скрин2.jpg)
+![screen3](images/скрин3.jpg)
 
 ## About project
 Freelance exchange Telegram bot. We have implemented a system in which the distance between the customer and the contractor is reduced as much as possible, and the use of the platform is intuitive and understandable to any user.
